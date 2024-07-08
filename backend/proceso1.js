@@ -1,2 +1,4 @@
 // ansax proc
-//modificado yamiryu
+//modificado  con @
+//con yamirru
+//ñla vencida
